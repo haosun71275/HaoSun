@@ -10,7 +10,11 @@ CV: [Resume](CV_HaoSun.pdf)
 * [Publications and Preprints](#Pub)
 * [Teaching](#Teach)
   * [Linear Algebra](#LinAlg)
-* [For Students at SCUT](#Stud)
+* [For Students at SCUT (关于华工的本科生)](#Stud)
+  * [General Suggestions]
+  * [Undergraduate Seminars]
+  * [Recommendation Letters]
+  * [Prospective Students]
 
 
 <h2 id="PI"> Personal Information </h2>
@@ -19,10 +23,10 @@ I got my Ph.D degree from [University of Illinois at Urbana-Champaign](https://m
 
 <h2 id="Pub"> Publications and Preprints </h2>
 
-## <h2 id="Teach"> Teaching </h2>
+<h2 id="Teach"> Teaching </h2>
 The teaching experience can be found in my CV, and I would like to share some of my (short) notes here for convenience of students.
 
-### <h2 id="LinAlg"> Linear Algebra </h2>
+<h2 id="LinAlg"> Linear Algebra </h2>
 
 [2021_Note (3 pages)](2021_LinearAlg_Note.pdf)
 
