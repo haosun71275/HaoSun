@@ -43,7 +43,7 @@ The teaching experience can be found in my CV, and I would like to share some of
 以往讨论班主题：
 
 
-<h2 id="RecLetter"> Recommendation Letters (推荐信) </h2> 
+### Recommendation Letters (推荐信) 
 
 一般情况下，感兴趣的同学需要在我的监督下完成时长为（至少）一个学期的reading course。推荐信的内容也是基于reading course的表现进行书写。详细情况可以通过邮件交流。reading course的内容会针对学生的基础来制定，但难度一般不低于研究生课程（比如同调代数、交换代数、代数几何、李群和李代数等）。
 
