@@ -4,13 +4,10 @@
 ### Office: No. 4 Btld, SCUT
 ### CV: Link of CV
 
-[Personal Information](#PI)
-
-[Publications and Preprints](#Pub)
-
-[Teaching](#Teach)
-
-[For Students at SCUT](#Stud)
+**[Personal Information](#PI)
+**[Publications and Preprints](#Pub)
+**[Teaching](#Teach)
+**[For Students at SCUT](#Stud)
 
 
 <h2 id="PI"> Personal Information </h2>
