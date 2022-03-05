@@ -1,5 +1,9 @@
 # Hao Sun (孙浩)
 
+*[Personal Information](#PI)
+
+<h2 id="PI">1.Personal Information</h2>
+
 ##  Personal Information
 ### Email: hsun71275 at scut dot edu dot cn
 ### Office: No. 4 Btld, SCUT
