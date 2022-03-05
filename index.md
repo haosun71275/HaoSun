@@ -4,7 +4,7 @@ Email: hsun71275 at scut dot edu dot cn
 
 Office: No. 4 Btld, SCUT
 
-CV: (CV_HaoSun.pdf)
+CV: [Resume](CV_HaoSun.pdf)
 
 * [Personal Information](#PI)
 * [Publications and Preprints](#Pub)
