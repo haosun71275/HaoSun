@@ -1,8 +1,8 @@
 # Hao Sun (孙浩)
 
-### Email: hsun71275 at scut dot edu dot cn
-### Office: No. 4 Btld, SCUT
-### CV: Link of CV
+Email: hsun71275 at scut dot edu dot cn
+Office: No. 4 Btld, SCUT
+CV: Link of CV
 
 **[Personal Information](#PI)
 **[Publications and Preprints](#Pub)
