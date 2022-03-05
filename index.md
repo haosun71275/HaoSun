@@ -41,7 +41,6 @@ The teaching experience can be found in my CV, and I would like to share some of
 一般来说，我每学期会组织一个固定主题的面向本科生的讨论班，讨论的内容目前会以我熟悉或相关的领域为主。等到将来时机成熟，希望这个讨论班完全可以由感兴趣地本科生（特别是基础数学方向）自发地组织下去，那时候我将把这个讨论班完全放手，交由参与者自行组织。
 
 以往讨论班主题：
-$SL_2$
 
 ### Recommendation Letters (推荐信) 
 
