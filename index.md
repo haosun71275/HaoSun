@@ -4,7 +4,7 @@ Email: hsun71275 at scut dot edu dot cn
 
 Office: No. 4 Btld, SCUT
 
-CV: Link of CV
+CV: 
 
 * [Personal Information](#PI)
 * [Publications and Preprints](#Pub)
