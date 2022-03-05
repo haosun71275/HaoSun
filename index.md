@@ -11,10 +11,10 @@ CV: [Resume](CV_HaoSun.pdf)
 * [Teaching](#Teach)
   * [Linear Algebra](#LinAlg)
 * [For Students at SCUT (关于华工的本科生)](#Stud)
-  * [General Suggestions]
-  * [Undergraduate Seminars]
-  * [Recommendation Letters]
-  * [Prospective Students]
+  * [General Suggestions (一般地建议)](#GSugg)
+  * [Undergraduate Seminar (本科生讨论班)](#UndgSem)
+  * [Recommendation Letters (推荐信)](#RecLetter)
+  * [Prospective Students (未来学生的要求)](#PropStud)
 
 
 <h2 id="PI"> Personal Information </h2>
@@ -30,5 +30,21 @@ The teaching experience can be found in my CV, and I would like to share some of
 
 [2021_Note (3 pages)](2021_LinearAlg_Note.pdf)
 
-<h2 id="Stud"> For Students </h2> 
+<h2 id="Stud"> For Students at SCUT </h2> 
+
+<h2 id="GSugg"> General Suggestions </h2> 
+
+[Suggestions of Prof. Vakil](http://math.stanford.edu/~vakil/potentialstudents.html) and [Suggestions from 梁咏琪教授](http://staff.ustc.edu.cn/~yqliang/files/teaching.htm)
+
+<h2 id="UndgSem"> Undergraduate Seminar </h2> 
+
+<h2 id="RecLetter"> Recommendation Letters </h2> 
+
+<h2 id="PropStud"> Prospective Students </h2> 
+
+
+
+
+
+
 
