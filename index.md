@@ -11,7 +11,7 @@ CV: [Resume](CV_HaoSun.pdf)
 * [Teaching](#Teach)
   * [Linear Algebra](#LinAlg)
 * [For Students at SCUT (关于华工的本科生)](#Stud)
-  * [General Suggestions (一般地建议)]
+  * General Suggestions (一般地建议)
   * [Undergraduate Seminar (本科生讨论班)](#UndgSem)
   * [Recommendation Letters (推荐信)](#RecLetter)
   * [Prospective Students (未来学生的要求)](#PropStud)
