@@ -1,6 +1,6 @@
 # Hao Sun (孙浩)
 
-<font face="TimesNewRoman" > abc </font>
+mainfont: Times New Roman
 
 ### Email: hsun71275 at scut dot edu dot cn
 ### Office: No. 4 Btld, SCUT
