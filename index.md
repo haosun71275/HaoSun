@@ -30,8 +30,8 @@ All my publications and preprints can be found at [arXiv](http://arxiv.org/a/sun
 3. Deformation of Locally Free Sheaves and Hitchin Pairs over Nodal Curve, *J. Korean Math. Soc.* 57(4), 809-823 (2020). [Article](https://doi.org/10.4134/JKMS.j190334)
 4. Topolocail invariants of parabolic G-Higgs bundles (with G. Kydonakis and L. Zhao), *Math. Z.* 297(1), 585-632 (2021). [Article](https://doi.org/10.1007/s00209-020-02526-4)
 5. The Beauville-Narasimhan-Ramanan correspondence for twisted Higgs V-bundles and components of parabolic Sp(2n;R)-Higgs moduli (with G. Kydonakis and L. Zhao), *Trans. Amer. Math. Soc.* 374(6), 4023-4057 (2021). [Article](https://doi.org/10.1090/tran/8284)
-6. Moduli Problem of Hitchin Pairs over Deligne-Mumford Stack, *Proc. Amer. Math. Soc.* 150(1), 131-143 (2022).
-7. Monodromy of Rank 2 Parabolic Hitchin Systems (with G. Kydonakis and L. Zhao), *J. Geom. Phys* 171, Paper No. 104411, 18pp (2022).
+6. Moduli Problem of Hitchin Pairs over Deligne-Mumford Stack, *Proc. Amer. Math. Soc.* 150(1), 131-143 (2022). [Article](https://doi.org/10.1090/proc/15663)
+7. Monodromy of Rank 2 Parabolic Hitchin Systems (with G. Kydonakis and L. Zhao), *J. Geom. Phys* 171, Paper No. 104411, 18pp (2022). [Article](https://doi.org/10.1016/j.geomphys.2021.104411)
 
 
 
