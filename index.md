@@ -11,10 +11,10 @@ CV: [Resume](CV_HaoSun.pdf)
 * [Teaching](#Teach)
   * Linear Algebra
 * [For Students at SCUT (关于华工的本科生)](#Stud)
-  * General Suggestions (一般地建议)
   * Undergraduate Seminar (本科生讨论班)
   * Recommendation Letters (推荐信)
   * Prospective Students (未来学生的要求)
+  * General Suggestions (一般地建议)
 
 
 <h2 id="PI"> Personal Information </h2>
@@ -32,10 +32,6 @@ The teaching experience can be found in my CV, and I would like to share some of
 
 <h2 id="Stud"> For Students at SCUT (关于华工的本科生) </h2> 
 
-### General Suggestions (一般地建议) 
-
-[Suggestions of Prof. Vakil](http://math.stanford.edu/~vakil/potentialstudents.html) and [Suggestions of 梁咏琪教授](http://staff.ustc.edu.cn/~yqliang/files/teaching.htm)
-
 ### Undergraduate Seminar (本科生讨论班) 
 
 一般来说，我每学期会组织一个固定主题的面向本科生的讨论班，讨论的内容目前会以我熟悉或相关的领域为主。等到将来时机成熟，希望这个讨论班完全可以由感兴趣地本科生（特别是基础数学方向）自发地组织下去，那时候我将把这个讨论班完全放手，交由参与者自行组织。
@@ -50,7 +46,9 @@ The teaching experience can be found in my CV, and I would like to share some of
 
 我个人招生比较慎重，非常欢迎本科阶段对代数几何已经稍有了解的同学联系我了解详情。
 
+### General Suggestions (一般地建议) 
 
+推荐两位教授写给学生的建议：[Suggestions of Prof. Vakil](http://math.stanford.edu/~vakil/potentialstudents.html) 和 [Suggestions of 梁咏琪教授](http://staff.ustc.edu.cn/~yqliang/files/teaching.htm)。
 
 
 
