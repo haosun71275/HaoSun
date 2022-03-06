@@ -23,6 +23,14 @@ I got my Ph.D degree from [University of Illinois at Urbana-Champaign](https://m
 
 <h2 id="Pub"> Publications and Preprints </h2>
 
+All my publications and preprints can be found at [arXiv](http://arxiv.org/a/sun_h_4). I will only give a list of publications.
+
+1. A formula about W-operator and its application to Hurwitz number, *Discrete Math.* 342(3), 715-722 (2019). [Article](https://doi.org/10.1016/j.disc.2018.10.038)
+2. Degree of the W-operator and Noncrossing Partitions, *Bull. Aust. Math. Soc.* 101(2), 182-200 (2020). [Article](https://doi.org/10.1017/S0004972719001084)
+
+
+
+
 <h2 id="Teach"> Teaching </h2>
 The teaching experience can be found in my CV, and I would like to share some of my (short) notes here for convenience of students.
 
