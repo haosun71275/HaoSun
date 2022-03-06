@@ -33,9 +33,6 @@ All my publications and preprints can be found at [arXiv](http://arxiv.org/a/sun
 6. Moduli Problem of Hitchin Pairs over Deligne-Mumford Stack, *Proc. Amer. Math. Soc.* 150(1), 131-143 (2022). [Article](https://doi.org/10.1090/proc/15663)
 7. Monodromy of Rank 2 Parabolic Hitchin Systems (with G. Kydonakis and L. Zhao), *J. Geom. Phys* 171, Paper No. 104411, 18pp (2022). [Article](https://doi.org/10.1016/j.geomphys.2021.104411) *The article is a shorter version and omit a lot of proofs. We refer the reader to [arXiv](https://arxiv.org/abs/1906.03740) for more details.*
 
-
-
-
 <h2 id="Teach"> Teaching </h2>
 The teaching experience can be found in my CV, and I would like to share some of my (short) notes here for convenience of students.
 
@@ -44,6 +41,8 @@ The teaching experience can be found in my CV, and I would like to share some of
 [2021_Note (3 pages)](2021_LinearAlg_Note.pdf)
 
 <h2 id="Stud"> For Students at SCUT (关于华工的本科生) </h2> 
+
+This section atims at shareing some news and information for (undergraduate) students at SCUT, who want to study (pure) mathematics.
 
 ### Undergraduate Seminar (本科生讨论班) 
 
