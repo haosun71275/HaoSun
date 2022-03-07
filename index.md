@@ -58,7 +58,7 @@ This section atims at shareing some news and information for (undergraduate) stu
 
 2021春季讨论班：主要是Cutkosky书的chapter 2-4部分。
 
-2021秋季讨论班：简单介绍Lie algebra和Lie group。特别感谢**谢楷涛**（18级）和**谌越**（19级）对本学期讨论班的贡献。
+2021秋季讨论班：简单介绍Lie algebra和Lie group。特别感谢**谢锴涛**（18级）和**谌越**（19级）对本学期讨论班的贡献。
 
 ### Recommendation Letters (推荐信) 
 
