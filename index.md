@@ -49,7 +49,6 @@ This section atims at shareing some news and information for (undergraduate) stu
 一般来说，我每学期会组织一个固定主题的面向本科生的讨论班，讨论的内容目前会以我熟悉或相关的领域为主。等到将来时机成熟，希望这个讨论班完全可以由感兴趣地本科生（特别是基础数学方向）自发地组织下去，那时候我将把这个讨论班完全放手，交由参与者自行组织。
 
 2022春季讨论班
-
 时间：周日晚上6点
 地点：四号楼4312（三楼那个玻璃房）
 内容：Homology and cohomology
@@ -58,7 +57,6 @@ This section atims at shareing some news and information for (undergraduate) stu
 以往讨论班主题：
 
 2021秋季讨论班：简单介绍Lie algebra和Lie group。特别感谢**谢楷涛**（18级）和**谌越**（19级）对本学期讨论班的贡献。
-
 2021春季讨论班：主要是Cutkosky书的chapter 2-4部分。
 
 ### Recommendation Letters (推荐信) 
