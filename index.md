@@ -38,7 +38,7 @@ The teaching experience can be found in my CV, and I would like to share some of
 
 ### Linear Algebra
 
-[2021_Note (3 pages)](2021_LinearAlg_Note.pdf)
+[2021_Linear_Algebra_Note (3 pages)](2021_LinearAlg_Note.pdf)
 
 <h2 id="Stud"> For Students at SCUT (关于华工的本科生) </h2> 
 
