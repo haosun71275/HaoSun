@@ -58,7 +58,7 @@ This section atims at shareing some news and information for (undergraduate) stu
 
 形式：每周会布置阅读任务，由各位参与者主讲相关内容。原则意义上希望参加人员可以为该讨论班做出一定的贡献，即讲一次。
 
-以往讨论班主题：
+**以往讨论班主题**：
 
 2021春季讨论班：主要是Cutkosky书的chapter 2-4部分。
 
