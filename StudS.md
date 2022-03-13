@@ -1,6 +1,4 @@
-# Hao Sun (孙浩)
-
-<h2 id="Stud"> For Students at SCUT (关于华工的本科生) </h2> 
+# For Students at SCUT (关于华工的本科生)
 
 This part atims at shareing some information for (undergraduate) students at SCUT, who want to study (pure) mathematics.
 
