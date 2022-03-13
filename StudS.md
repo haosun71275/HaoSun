@@ -2,7 +2,7 @@
 
 <h2 id="Stud"> For Students at SCUT (关于华工的本科生) </h2> 
 
-This section atims at shareing some news and information for (undergraduate) students at SCUT, who want to study (pure) mathematics.
+This part atims at shareing some information for (undergraduate) students at SCUT, who want to study (pure) mathematics.
 
 ### Undergraduate Seminar (本科生讨论班) 
 
