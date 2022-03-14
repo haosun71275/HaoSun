@@ -3,7 +3,7 @@
 This part atims at shareing some information for (undergraduate) students at SCUT, who want to study (pure) mathematics.
 
 * [Undergraduate Seminar (本科生讨论班)](#UndGradSemi)
-* [Recommendation Letters (推荐信) ](#Recomm)
+* [Recommendation Letters (推荐信)](#Recomm)
 * [Prospective Students (未来学生的要求)](#ProspStu)
 * [General Suggestions (一般地建议)](#GenSug)
 
@@ -27,14 +27,14 @@ This part atims at shareing some information for (undergraduate) students at SCU
 
 *2021秋季讨论班*：简单介绍Lie algebra和Lie group。特别感谢**谢锴涛**（18级）和**谌越**（19级）对本学期讨论班的贡献。
 
-### Recommendation Letters (推荐信) 
+<h2 id="Recomm"> Recommendation Letters (推荐信) </h2>
 
 一般情况下，感兴趣的同学需要在我的监督下完成时长为（至少）一个学期的reading course。推荐信的内容也是基于reading course的表现进行书写。详细情况可以通过邮件交流。reading course的内容会针对学生的基础来制定，但难度一般不低于一般意义下的研究生课程（比如同调代数、交换代数、代数几何、李群和李代数等）。
 
-### Prospective Students (未来学生的要求)  
+<h2 id="ProspStu"> Prospective Students (未来学生的要求) </h2>
 
 我个人招生比较慎重，非常欢迎本科阶段对代数几何已经稍有了解的同学联系我了解详情。
 
-### General Suggestions (一般地建议) 
+<h2 id="GenSug"> General Suggestions (一般地建议) </h2>
 
 推荐两位教授写给学生的建议：[Suggestions of Prof. Vakil](http://math.stanford.edu/~vakil/potentialstudents.html) 和 [Suggestions of 梁咏琪教授](http://staff.ustc.edu.cn/~yqliang/files/teaching.htm)。
