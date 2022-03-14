@@ -2,7 +2,12 @@
 
 This part atims at shareing some information for (undergraduate) students at SCUT, who want to study (pure) mathematics.
 
-### Undergraduate Seminar (本科生讨论班) 
+* [Undergraduate Seminar (本科生讨论班)](#UndGradSemi)
+* [Recommendation Letters (推荐信) ](#Recomm)
+* [Prospective Students (未来学生的要求)](#ProspStu)
+* [General Suggestions (一般地建议)](#GenSug)
+
+<h2 id="UndGrasemi"> Undergraduate Seminar (本科生讨论班) </h2>
 
 一般来说，我每学期会组织一个固定主题的面向本科生的讨论班，讨论的内容目前会以我熟悉或相关的领域为主。等到将来时机成熟，希望这个讨论班完全可以由感兴趣地本科生（特别是基础数学方向）自发地组织下去，那时候我将把这个讨论班完全放手，交由参与者自行组织。
 
