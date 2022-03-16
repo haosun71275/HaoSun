@@ -37,7 +37,7 @@ This part atims at shareing some information for (undergraduate) students at SCU
 
 <h2 id="GenSug"> General Suggestions (一般地建议) </h2>
 
-[章俊彦老师主页关于科大本科生的建议](http://home.ustc.edu.cn/~yx3x/USTCdata.html)
+[章俊彦博士主页关于科大本科生的建议](http://home.ustc.edu.cn/~yx3x/USTCdata.html)
 
 [Suggestions of Prof. Vakil](http://math.stanford.edu/~vakil/potentialstudents.html) 
 
