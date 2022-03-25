@@ -1,6 +1,6 @@
-# For Students at SCUT (关于华工的本科生)
+# For Students at SCUT (关于华工的学生)
 
-This part atims at shareing some information for (undergraduate) students at SCUT, who want to study (pure) mathematics. I do not ask permisson for sharing any of the links appearing in this page. If violating the coyright, feel free to contact me and I would like to apologize for my inappropriate behavior and romove the link from this page. 
+This part atims at shareing some information for (especially undergraduate) students at SCUT, who want to study (pure) mathematics. I do not ask permisson for sharing any of the links appearing in this page. If violating the coyright, feel free to contact me and I would like to apologize for my inappropriate behavior and romove the link from this page. 
 
 * [Undergraduate Seminar (本科生讨论班)](#UndGradSemi)
 * [Recommendation Letters (推荐信)](#Recomm)
@@ -33,7 +33,7 @@ This part atims at shareing some information for (undergraduate) students at SCU
 
 <h2 id="ProspStu"> Prospective Students (未来学生的要求) </h2>
 
-我个人的研究方向是algebraic geometry，如果打算读这个方向，需要在本科阶段完成Hartshorne的阅读（至少前三章）。这是一个读Hartshorne的建议帖[GTM52建议](https://exp.newsmth.net/topic/article/a05e7dbb3c14e84b222a7bc0bd4e6bea)。同时，由于我目前主要从事和Higgs bundles相关问题的研究工作，因此也会考虑其他方向的问题（比如representation theory, Lie group and Lie algebra and etc.）。最后，我个人招生比较慎重。
+我个人的研究方向是algebraic geometry。如果打算做这个方向，需要在本科阶段完成Hartshorne的阅读（至少前三章）。这是一个读Hartshorne的建议帖[GTM52建议](https://exp.newsmth.net/topic/article/a05e7dbb3c14e84b222a7bc0bd4e6bea)。同时，由于我目前主要从事和Higgs bundles相关问题的研究工作，因此也会考虑其他方向的问题（比如representation theory, Lie group and Lie algebra and etc.）。如果对这种交叉方向感兴趣，建议联系另外一个相关方向的老师，由我和另外的老师共同商定你的培养计划。最后，本人水平有限，招生比较慎重。
 
 <h2 id="GenSug"> General Suggestions (一般地建议) </h2>
 
