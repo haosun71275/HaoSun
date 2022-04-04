@@ -19,7 +19,7 @@ This part atims at shareing some information for (especially undergraduate) stud
 
 内容：Homology and cohomology
 
-形式：每周会布置阅读任务，由各位参与者主讲相关内容。原则意义上希望参加人员可以为该讨论班做出一定的贡献，即讲一次。
+形式：由各位参与者主讲相关内容。原则意义上希望参加人员可以为该讨论班做出一定的贡献，即讲一次。
 
 **以往讨论班主题**：
 
