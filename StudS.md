@@ -15,7 +15,7 @@ This part atims at shareing some information for (especially undergraduate) stud
 
 时间：周日晚上6点
 
-地点：四号楼4224（三楼那个玻璃房）
+地点：四号楼4224
 
 内容：Homology and cohomology
 
