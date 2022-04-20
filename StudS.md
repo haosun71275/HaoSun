@@ -35,7 +35,9 @@ This part atims at shareing some information for (especially undergraduate) stud
 
 <h2 id="ProspStu"> Prospective Students (未来学生的要求) </h2>
 
-我个人的研究方向是algebraic geometry。如果打算做这个方向，需要在本科阶段完成Hartshorne的阅读（至少前三章）[GTM52建议](https://exp.newsmth.net/topic/article/a05e7dbb3c14e84b222a7bc0bd4e6bea)。同时，由于我目前主要从事和Higgs bundles相关问题的研究工作，因此也会考虑其他方向的问题（比如representation theory, Lie groups and Lie algebras, harmonic bundles and etc.）。如果对这种交叉方向感兴趣，建议联系另外一个相关方向的老师，由我和另外的老师共同商定你的培养计划。最后，本人水平有限，招生比较慎重。
+我个人的研究方向是algebraic geometry。如果打算做这个方向，需要在本科阶段完成Hartshorne（即GTM52）的阅读（至少前三章）。这是一个关于GTM52阅读的建议的帖子[GTM52建议](https://exp.newsmth.net/topic/article/a05e7dbb3c14e84b222a7bc0bd4e6bea)。与此同时，我建议同学们在自己阅读的时候，可以考虑同步（或提前）阅读以下（或等价的）内容
+
+同时，由于我目前主要从事和Higgs bundles相关问题的研究工作，因此也会考虑其他方向的问题（比如representation theory, Lie groups and Lie algebras, harmonic bundles and etc.）。如果对这种交叉方向感兴趣，建议联系另外一个相关方向的老师，由我和另外的老师共同商定你的培养计划。最后，本人水平有限，招生比较慎重。
 
 <h2 id="GenSug"> General Suggestions (一般地建议) </h2>
 
