@@ -36,9 +36,7 @@ The teaching experience can be found in my CV, and I would like to share some of
 
 [2021_Linear_Algebra_Note (3 pages)](2021_LinearAlg_Note.pdf)
 
-* Visitor Counts
-
-<!-- hitwebcounter Code START -->
+* Visitor Counts <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
 <img src="https://hitwebcounter.com/counter/counter.php?page=7977462&style=0001&nbdigits=6&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>                 
 
