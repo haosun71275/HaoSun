@@ -49,4 +49,4 @@ This part atims at shareing some information for (especially undergraduate) stud
 
 [Suggestions of Prof. Vakil](http://math.stanford.edu/~vakil/potentialstudents.html) 
 
-[Suggestions of 梁咏琪教授](http://staff.ustc.edu.cn/~yqliang/files/teaching.htm)。
+[Suggestions of 梁永祺教授](http://staff.ustc.edu.cn/~yqliang/files/teaching.htm)。
