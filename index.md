@@ -6,7 +6,7 @@ Address: 4232B No. 4 Bldg, SCUT, Guangzhou, Guangdong, China
 
 CV: [Resume](CV_HaoSun.pdf)
 
-* [Publications and Preprints](#Pub)
+* [Publications and Preprints](Publication.md)
 * [Teaching](#Teach)
   * Linear Algebra
 * [For Students at SCUT (关于华工的学生)](StudS.md)
