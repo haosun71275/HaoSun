@@ -1,4 +1,4 @@
-<h2 id="Pub"> Publications and Preprints </h2>
+# Publications and Preprints 
 
 All my publications and preprints can be found at [arXiv](http://arxiv.org/a/sun_h_4). I will only give a list of publications.
 
