@@ -1,4 +1,4 @@
-# For Students at SCUT (关于华工的学生)
+# For Prospective Students and Students at SCUT (关于学生)
 
 This part atims at shareing some information for (especially undergraduate) students at SCUT, who want to study (pure) mathematics. I do not ask permisson for sharing any of the links appearing in this page. If violating the coyright, feel free to contact me and I would like to apologize for my inappropriate behavior and remove the link from this page. 
 
