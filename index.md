@@ -9,7 +9,7 @@ CV: [Resume](CV_HaoSun.pdf)
 * [Publications and Preprints](Publication.md)
 * [Teaching](#Teach)
   * Linear Algebra
-* [For Students at SCUT (关于华工的学生)](StudS.md)
+* [For Prospective Students and Students at SCUT (关于学生)](StudS.md)
 
 <h2 id="PI"> About Me </h2>
 
