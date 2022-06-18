@@ -9,7 +9,7 @@ CV: [Resume](CV_HaoSun.pdf)
 * [Publications and Preprints](Publication.md)
 * [Teaching](teaching.md)
 * [For Prospective Students and Students at SCUT (关于学生)](StudS.md)
-* [Seminars](seminar.md)
+* [Seminars (organized or co-organized)](seminar.md)
 
 <h2 id="PI"> About Me </h2>
 
