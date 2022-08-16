@@ -23,11 +23,11 @@ This part atims at shareing some information for (especially undergraduate) stud
 
 **以往讨论班主题**：
 
-*2022春季讨论班*： Homology and Cohomology, *Advanced Modern Algebra* by J. Rotman (Chap 7, 10). 
+*2022春季讨论班*： Homology and Cohomology, *Advanced Modern Algebra* by Rotman (Chap 7, 10). 
 
 特别感谢**苏铧杰**（19级）对本学期讨论班的贡献。
 
-*2021秋季讨论班*：Lie Algebra and Lie Groups, *Introduction to Lie Algebras and Representation Theory* by J. E. Humphreys (Sect 1-6, 10-11). 
+*2021秋季讨论班*：Lie Algebra and Lie Groups, *Introduction to Lie Algebras and Representation Theory* by Humphreys (Sect 1-6, 10-11). 
 
 特别感谢**谢锴涛**（18级）和**谌越**（19级）对本学期讨论班的贡献。
 
