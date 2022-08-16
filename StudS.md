@@ -27,11 +27,11 @@ This part atims at shareing some information for (especially undergraduate) stud
 
 特别感谢**苏铧杰**（19级）对本学期讨论班的贡献。
 
-*2021秋季讨论班*：Lie Algebra and Lie Groups, *Introduction to Lie Algebras and Representation Theory* by J. E. Humphreys. 
+*2021秋季讨论班*：Lie Algebra and Lie Groups, *Introduction to Lie Algebras and Representation Theory* by J. E. Humphreys (Sect 1-6, 10-11). 
 
 特别感谢**谢锴涛**（18级）和**谌越**（19级）对本学期讨论班的贡献。
 
-*2021春季讨论班*：主要是Cutkosky书的chapter 2-4部分。
+*2021春季讨论班*：Algebraic Geometry, *Introduction to Algebraic Geometry* by Cutkosky (Chap 2-4).
 
 <h2 id="Recomm"> Recommendation Letters (推荐信) </h2>
 
