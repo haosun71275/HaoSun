@@ -1,5 +1,5 @@
 # Teaching
-The teaching experience can be found in my CV, and I would like to share some of my (short) notes here for convenience of students.
+The teaching experience can be found in my CV, and I would like to share some of my (short) notes here for convenience.
 
 ### Linear Algebra
 
