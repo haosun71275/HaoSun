@@ -41,7 +41,7 @@ This part atims at shareing some information for (especially undergraduate) stud
 
 <h2 id="ProspStu"> Prospective Students (未来学生的要求) </h2>
 
-我个人的研究方向是algebraic geometry。如果打算做这个方向，需要在本科阶段完成Hartshorne（即GTM52）的阅读（至少前三章）。这是一个关于GTM52阅读的建议的帖子[GTM52建议](https://exp.newsmth.net/topic/article/a05e7dbb3c14e84b222a7bc0bd4e6bea)。我个人建议可以考虑同步（或提前）阅读以下（或相仿的）内容：
+目前我绝大多数研究是主要用代数几何的方法研究一些几何问题，绝大多数问题和Higgs bundle有关。如果打算以代数几何为出发点，建议在本科阶段完成Hartshorne（即GTM52）的阅读（至少前三章）。这是一个关于GTM52阅读的建议的帖子[GTM52建议](https://exp.newsmth.net/topic/article/a05e7dbb3c14e84b222a7bc0bd4e6bea)。同时，我个人建议可以考虑同步（或提前）阅读以下（或相仿的）内容：
 
 * 伍鸿熙, *黎曼几何初步*
 * Matsumura, *Commutative Algebra*
