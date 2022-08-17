@@ -6,7 +6,7 @@ Address: 4232B No. 4 Bldg, SCUT, Guangzhou, Guangdong, China
 
 CV: [Resume](CV_HaoSun.pdf)
 
-* [Publications and Preprints](Publication.md)
+* [Publications, Preprints, Notes and Slides](Publication.md)
 * [Teaching](teaching.md)
 * [For Prospective Students and Students at SCUT (关于学生)](StudS.md)
 * [Seminars](seminar.md)
