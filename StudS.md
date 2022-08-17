@@ -47,7 +47,7 @@ This part atims at shareing some information for (especially undergraduate) stud
 * Matsumura, *Commutative Algebra*
 * Weibel, *An Introduction to Homological Algebra*
 
-同时，由于与Higgs bundles相关的问题和理论非常的多。因此也会考虑其他方向的问题（比如representation theory, Lie groups and Lie algebras, harmonic bundles and etc.）。如果对这种交叉方向感兴趣，建议联系另外一个相关方向的老师，由我和另外的老师共同商定你的培养计划。最后，本人水平有限，招生比较慎重。
+同时，由于与Higgs bundles相关的问题和理论非常的多。因此也会考虑其他方向的问题（比如representation theory, Lie groups and Lie algebras, harmonic bundles and etc.）。如果对这种交叉方向感兴趣，建议同时联系另外一个相关方向的老师，由我和另外的老师共同商定你的培养计划。最后，本人水平非常有限，招生相当慎重。
 
 <h2 id="GenSug"> General Suggestions (一般地建议) </h2>
 
