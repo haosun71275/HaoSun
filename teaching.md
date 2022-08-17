@@ -1,6 +1,10 @@
 # Teaching
 The teaching experience can be found in my CV, and I share some of my (short) notes here for convenience.
 
+### Introduction to Algebra and Geometry
+
+2022 Fall Note (to be added)
+
 ### Linear Algebra
 
 [2021 Linear Algebra Note (3 pages)](Teaching_Material/2021_Fall_Note_Linear_Alg.pdf)
