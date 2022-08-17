@@ -3,4 +3,4 @@ The teaching experience can be found in my CV, and I share some of my (short) no
 
 ### Linear Algebra
 
-[2021_Linear_Algebra_Note (3 pages)](Teaching_Material/2021_Fall_Note_Linear_Alg.pdf)
+[2021 Linear Algebra Note (3 pages)](Teaching_Material/2021_Fall_Note_Linear_Alg.pdf)
