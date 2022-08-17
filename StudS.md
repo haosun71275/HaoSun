@@ -41,7 +41,7 @@ This part atims at shareing some information for (especially undergraduate) stud
 
 <h2 id="ProspStu"> Prospective Students (未来学生的要求) </h2>
 
-目前我绝大多数研究是主要用代数几何的方法研究一些几何问题，绝大多数问题和Higgs bundle有关。（由于Higgs bundle这一领域目前并没有比较系统的教材，建议看一下[李琼玲教授](https://www.srmc.pku.edu.cn/tzgg/137261.htm)和[黄鹏飞博士](http://www.cim.nankai.edu.cn/2022/0627/c11453a460256/page.htm)的短期课程。）如果打算以代数几何为出发点，建议在本科阶段完成Hartshorne（即GTM52）的阅读（至少前三章）。这是一个关于GTM52阅读的建议的帖子[GTM52建议](https://exp.newsmth.net/topic/article/a05e7dbb3c14e84b222a7bc0bd4e6bea)。同时，我个人建议可以考虑同步（或提前）阅读以下（或相仿的）内容：
+目前我绝大多数研究是主要用代数几何的方法研究一些几何问题，绝大多数问题和Higgs bundle有关。由于Higgs bundle这一领域目前并没有比较系统的教材，建议看一下[李琼玲教授](https://www.srmc.pku.edu.cn/tzgg/137261.htm)和[黄鹏飞博士](http://www.cim.nankai.edu.cn/2022/0627/c11453a460256/page.htm)的短期课程。如果打算以代数几何为出发点，建议在本科阶段完成Hartshorne（即GTM52）的阅读（至少前三章）。这是一个关于GTM52阅读的建议的帖子[GTM52建议](https://exp.newsmth.net/topic/article/a05e7dbb3c14e84b222a7bc0bd4e6bea)。同时，我个人建议可以考虑同步（或提前）阅读以下（或相仿的）内容：
 
 * 伍鸿熙, *黎曼几何初步*
 * Matsumura, *Commutative Algebra*
