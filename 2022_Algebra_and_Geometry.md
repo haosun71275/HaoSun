@@ -8,4 +8,4 @@
 * 办公时间：预约
 * 线上教学：腾讯会议 544-627-4616 （*由于设备调试等原因，腾讯会议开始时间可能会延迟5-10分钟（或以内）。*）
 * 课程信息：[课程信息](Teaching_Material/Syllabus_Modern_Alg_and_Geom.pdf)
-* 课程讲义：[讲义](Teaching_Material/Notes_Modern_Alg_and_Geom.pdf)
+* 课程讲义：[讲义](Teaching_Material/Notes_Modern_Alg_and_Geom.pdf) (Last Updated: 2022.9.20)
