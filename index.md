@@ -8,7 +8,8 @@ CV: [Resume](CV_HaoSun.pdf)
 
 * [Publications, Preprints, Notes and Slides](Publication.md)
 * [Teaching](teaching.md)
-* [For Prospective Students and Students at SCUT (关于学生)](StudS.md)
+* [For Prospective Students and Students at SCUT](StudS.md)
+*如果你是华工的学生或者是打算了解导师信息的潜在的未来的华工的研究生，可以看一下这个页面*
 * [Seminars](seminar.md)
 
 <h2 id="PI"> About Me </h2>
