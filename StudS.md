@@ -41,13 +41,13 @@ This part atims at shareing some information for students, especially for those 
 
 <h2 id="ProspStu"> Prospective Students (未来学生的要求) </h2>
 
-目前我绝大多数研究是主要用代数几何的方法研究一些几何问题，绝大多数问题和Higgs bundle有关。由于Higgs bundle这一领域目前并没有比较系统的教材，建议看一下[李琼玲教授](https://www.srmc.pku.edu.cn/tzgg/137261.htm)和[黄鹏飞博士](http://www.cim.nankai.edu.cn/2022/0627/c11453a460256/page.htm)的短期课程。如果打算以代数几何为出发点，建议在本科阶段完成Hartshorne（即GTM52）的阅读（至少前三章）。这是一个关于GTM52阅读的建议的帖子[GTM52建议](https://exp.newsmth.net/topic/article/a05e7dbb3c14e84b222a7bc0bd4e6bea)。同时，我个人建议可以考虑同步（或提前）阅读以下（或相仿的）内容：
+目前我主要是用代数几何的方法和工具研究一些几何问题，特别是和Higgs bundle有关。由于Higgs bundle这一领域目前并没有比较系统的教材，建议看一下[李琼玲教授](https://www.srmc.pku.edu.cn/tzgg/137261.htm)和[黄鹏飞博士](http://www.cim.nankai.edu.cn/2022/0627/c11453a460256/page.htm)的短期课程。如果打算以代数几何为出发点，建议在本科阶段完成Hartshorne（即GTM52）的阅读（至少前三章）。这是一个关于GTM52阅读的建议的帖子[GTM52建议](https://exp.newsmth.net/topic/article/a05e7dbb3c14e84b222a7bc0bd4e6bea)。同时，我个人建议可以考虑同步（或提前）阅读以下（或相仿的）内容：
 
 * 伍鸿熙, *黎曼几何初步*
 * Matsumura, *Commutative Algebra*
 * Weibel, *An Introduction to Homological Algebra*
 
-同时，由于与Higgs bundles相关的问题和理论非常的多。因此也会考虑其他方向的问题（比如representation theory, Lie groups and Lie algebras, harmonic bundles and etc.）。如果对这种交叉方向感兴趣，建议同时联系另外一个相关方向的老师，由我和另外的老师共同商定你的培养计划。最后，本人水平非常有限，招生相当慎重。
+由于Higgs bundles与非常多其它的领域都有联系。因此，我也会考虑一些其他方向的问题，比如表示论（特别是基本群的表示），李群李代数， harmonic bundles等。如果对这种交叉方向感兴趣，建议同时联系另外一个相关方向的老师，由我和另外的老师共同商定你的培养计划。最后，本人水平非常有限，招生相当慎重。
 
 <h2 id="GenSug"> General Suggestions (一般地建议) </h2>
 
