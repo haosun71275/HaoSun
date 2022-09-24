@@ -47,7 +47,7 @@ This part atims at shareing some information for students, especially for those 
 * Matsumura, *Commutative Algebra*
 * Weibel, *An Introduction to Homological Algebra*
 
-由于Higgs bundles与非常多其它的领域都有联系。因此，我也会考虑一些其他方向的问题，比如表示论（特别是基本群的表示），李群李代数， harmonic bundles等。如果对这种交叉方向感兴趣，建议同时联系另外一个相关方向的老师，由我和另外的老师共同商定你的培养计划。最后，本人水平非常有限，招生相当慎重。
+由于Higgs bundles与非常多其它的领域都有联系，比如微分几何、几何分析、几何拓扑、代数几何等等。因此，我也会考虑一些其他方向的问题，比如表示论（特别是基本群的表示），李群李代数， harmonic bundles等等。如果对这种交叉方向感兴趣，建议同时联系另外一个相关方向的老师，由我和另外的老师共同商定你的培养计划。（我目前并不清楚华工从官方层面是否允许双导师制，不过这点对于学习甚至研究可能并不重要）。**最后，本人水平非常有限，招生相当慎重。**
 
 <h2 id="GenSug"> General Suggestions (一般地建议) </h2>
 
