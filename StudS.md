@@ -1,4 +1,4 @@
-# For Prospective Students and Students at SCUT (关于学生)
+# For Prospective Students and Students at SCUT
 
 This part atims at shareing some information for students, especially for those who want to study (pure) mathematics at SCUT and those who take me as your potential advisor. This page includes some of my information and also some useful links. (*I do not ask permisson for sharing any of the links appearing in this page. If violating the coyright, feel free to contact me and I would like to apologize for my inappropriate behavior and remove the link from this page.*) 
 
