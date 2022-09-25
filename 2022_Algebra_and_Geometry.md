@@ -11,3 +11,6 @@
 * 答疑时间：周六上午8点-10点，腾讯会议：931-376-372 （*助教答疑助教答疑助教答疑*）
 * 课程信息：[课程信息](Teaching_Material/Syllabus_Modern_Alg_and_Geom.pdf)
 * 课程讲义：[讲义](Teaching_Material/Notes_Modern_Alg_and_Geom.pdf) (Last Updated: 2022.9.20)
+
+
+### 关于不回邮件
