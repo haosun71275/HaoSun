@@ -13,4 +13,8 @@
 * 课程讲义：[讲义](Teaching_Material/Notes_Modern_Alg_and_Geom.pdf) (Last Updated: 2022.9.20)
 
 
-##### 关于不回邮件
+### 关于不回邮件
+
+在确保邮箱正确的前提下，如果不回邮件可能是如下一些原因：
+    * 
+    *
