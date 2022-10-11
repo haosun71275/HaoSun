@@ -13,13 +13,15 @@ This part atims at shareing some information for students, especially for those 
 
 **2022秋季讨论班**
 
-时间：待定
+本次讨论班是与华中科技大学郇真老师和吉林大学王骁老师共同组织。
 
-地点：极大可能线上
+时间：周六晚上7点
 
-内容：Algebraic Geometry (Hartshorne)
+地点：线上（有打算参加的可以联系我或者华中科技大学的郇真老师）
 
-形式：原则意义上希望参加人员可以为该讨论班做出一定的贡献，即讲一次。本次讨论班可能与华中科技大学和吉林大学的学生共同组织参加。
+内容：Algebraic Geometry (Hartshorne, chap 2)
+
+形式：原则意义上希望参加人员可以为该讨论班做出一定的贡献，即讲一次。
 
 **以往讨论班主题**：
 
