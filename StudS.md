@@ -13,7 +13,7 @@ This part atims at shareing some information for students, especially for those 
 
 **2022秋季讨论班**
 
-本次讨论班是与华中科技大学郇真老师和吉林大学王骁老师共同组织。
+本次讨论班是与华中科技大学[郇真老师](https://huanzhen84.github.io/zhenhuan/)和吉林大学[王骁老师](https://math.jlu.edu.cn/info/1063/9138.htm)共同组织。
 
 时间：周六晚上7点
 
