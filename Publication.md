@@ -20,6 +20,7 @@ All my publications and preprints can be found at [arXiv](http://arxiv.org/a/sun
 5. [Tame Parahoric Higgs Bundles for a Complex Reductive Group](https://arxiv.org/abs/2107.01977) (with G. Kydonakis and L. Zhao), *arXiv:2107.01977* (2021).
 6. [Tame Parahoric Nonabelian Hodge Correspondence in Positive Characteristic over Algebraic Curves](https://arxiv.org/abs/2109.00850) (with M. Li), *arXiv:2109.00850* (2021).
 7. [Tame Parahoric Nonabelian Hodge Correspondence on Curves](https://arxiv.org/abs/2205.15475) (with P. Huang, G. Kydonakis and L. Zhao), *arXiv: 2205.15475* (2022).
+8. [Meromorphic Parahoric Higgs Torsors and Filtered Stokes G-local Systems on Curves](https://arxiv.org/abs/2212.04939) (with P. Huang), *arXiv: 2212.04939* (2022).
 
 ## Notes
 
