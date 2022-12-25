@@ -11,19 +11,21 @@ This part atims at shareing some information for students, especially for those 
 
 一般来说，我每学期会组织一个固定主题的面向本科生的讨论班，讨论的内容目前会以我熟悉或相关的领域为主。等到将来时机成熟，希望这个讨论班完全可以由感兴趣地本科生（特别是基础数学方向）自发地组织下去。
 
-**2022秋季讨论班**
+**2023春季讨论班**
 
-本次讨论班是与华中科技大学[郇真老师](https://huanzhen84.github.io/zhenhuan/)和吉林大学[王骁老师](https://math.jlu.edu.cn/info/1063/9138.htm)共同组织。
+时间：TBA
 
-时间：周六晚上7点
+地点：极大概率线上
 
-地点：线上（有打算参加的可以联系我或者华中科技大学的郇真老师）
-
-内容：Algebraic Geometry (Hartshorne, chap 2)
+内容：可能是李群和李代数
 
 形式：原则意义上希望参加人员可以为该讨论班做出一定的贡献，即讲一次。
 
 **以往讨论班主题**：
+
+*2022秋季讨论班*： Algebraic Geometry (Exercises in Hartshorne, chap 2)
+
+本次讨论班是与华中科技大学[郇真老师](https://huanzhen84.github.io/zhenhuan/)和吉林大学[王骁老师](https://math.jlu.edu.cn/info/1063/9138.htm)共同组织。特别感谢**吴佳骏**（吉林大学，21级）对本学期讨论班的贡献。
 
 *2022春季讨论班*： Homology and Cohomology, *Advanced Modern Algebra* by Rotman (Chap 7, 10). 
 
