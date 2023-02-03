@@ -3,7 +3,7 @@ The teaching experience can be found in my CV, and I share some of my (short) no
 
 ### Introduction to Algebra and Geometry
 
-2022 Fall Note (to be added)
+[*现代代数与几何*课程主页](2022_Algebra_and_Geometry.md)
 
 ### Linear Algebra
 
