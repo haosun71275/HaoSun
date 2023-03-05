@@ -4,7 +4,7 @@ Email: hsun71275 at scut dot edu dot cn
 
 Address: 4232B No. 4 Bldg, SCUT, Guangzhou, Guangdong, China
 
-CV: [Resume](CV_HaoSun.pdf)
+CV: [Resume](CV_HaoSun.pdf) (last updated March, 2023)
 
 * [Publications, Preprints, Notes and Slides](Publication.md)
 * [Teaching](teaching.md)
