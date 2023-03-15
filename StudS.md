@@ -1,12 +1,11 @@
 # For Prospective Students and Students at SCUT
 
 This part atims at shareing some information for students, especially for those who want to study (pure) mathematics at SCUT and those who take me as your potential advisor. This page includes some of my information and also some useful links. (*I do not ask permisson for sharing any of the links appearing in this page. If violating the coyright, feel free to contact me and I would like to apologize for my inappropriate behavior and remove the link from this page.*) 
-
 * [Undergraduate Seminar (本科生讨论班)](#UndGradSemi)
 * [Recommendation Letters (推荐信)](#Recomm)
+* [Thesis (毕业论文&毕业设计)](#Thesis)
 * [Prospective Students (未来学生的要求)](#ProspStu)
 * [General Suggestions (一般地建议)](#GenSug)
-* [Thesis (毕业论文&毕业设计)](#Thesis)
 
 <h2 id="UndGrasemi"> Undergraduate Seminar (本科生讨论班) </h2>
 
@@ -46,7 +45,10 @@ This part atims at shareing some information for students, especially for those 
 
 <h2 id="Thesis"> Thesis (毕业论文&毕业设计) </h2>
 
-**本科生**： 针对学院现状，对于不同背景的本科生可选择如下方式（欢迎对号入座）
+**本科生**： 针对学院现状，对于不同背景和方向的本科生可选择如下方式（欢迎对号入座）：
+
+
+**研究生**： 待定（目前还没有研究生）。
 
 
 <h2 id="ProspStu"> Prospective Students (未来学生的要求) </h2>
