@@ -6,6 +6,7 @@ This part atims at shareing some information for students, especially for those 
 * [Recommendation Letters (推荐信)](#Recomm)
 * [Prospective Students (未来学生的要求)](#ProspStu)
 * [General Suggestions (一般地建议)](#GenSug)
+* [Thesis (毕业论文&毕业设计)](#Thesis)
 
 <h2 id="UndGrasemi"> Undergraduate Seminar (本科生讨论班) </h2>
 
@@ -42,6 +43,11 @@ This part atims at shareing some information for students, especially for those 
 **本科生**：一般情况下，感兴趣的同学需要在我的监督下完成时长为（至少）一个学期的reading course，推荐信的内容也是基于reading course的表现进行书写。详细情况可以通过邮件交流。reading course的内容会针对学生的基础来制定，但难度一般不低于一般意义下的研究生课程（比如同调代数、交换代数、代数几何、李群和李代数等）。*备注：如果只是上过我教的课，我一般不写推荐信。*
 
 **研究生**：一般情况下，需要在我的监督或指导下进行问题的研究。推荐信的内容也是基于研究过程的表现进行书写。
+
+<h2 id="Thesis"> Thesis (毕业论文&毕业设计) </h2>
+
+**本科生**： 针对学院现状，对于不同背景的本科生可选择如下方式（欢迎对号入座）
+
 
 <h2 id="ProspStu"> Prospective Students (未来学生的要求) </h2>
 
