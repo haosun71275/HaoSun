@@ -11,7 +11,7 @@ All my publications and preprints can be found at [arXiv](http://arxiv.org/a/sun
 6. [Monodromy of Rank 2 Parabolic Hitchin Systems](https://doi.org/10.1016/j.geomphys.2021.104411) (with G. Kydonakis and L. Zhao), *J. Geom. Phys* 171, Paper No. 104411, 18pp (2022). [arXiv:1906.03740](https://arxiv.org/abs/1906.03740) *The journal version omit a lot of details, and we refer the reader to [arxiv](https://arxiv.org/abs/1906.03740) for more details.*
 7. [Moduli Problem of Hitchin Pairs over Deligne-Mumford Stack](https://doi.org/10.1090/proc/15663), *Proc. Amer. Math. Soc.* 150(1), 131-143 (2022). [arXiv:1909.04543](https://arxiv.org/abs/1909.04543)
 8. [On the image of Hitchin morphism for algebraic surfaces: The case $GL_n$](https://arxiv.org/abs/2107.01679) (with L. Song), to appear at *IMRN* (2023). [arXiv:2107.01679](https://arxiv.org/abs/2107.01679)
-9. [Logahoric Higgs Torsors for a Complex Reductive Group](https://arxiv.org/abs/2107.01977) (with G. Kydonakis and L. Zhao), to appear at *Math. Ann.* (2023). [arXiv:2107.01977](https://arxiv.org/abs/2107.01977)
+9. [Logahoric Higgs Torsors for a Complex Reductive Group](https://doi.org/10.1007/s00208-023-02605-x) (with G. Kydonakis and L. Zhao), to appear at *Math. Ann.* (2023). [arXiv:2107.01977](https://arxiv.org/abs/2107.01977)
 
 ## Preprints
 1. [Moduli Space of $\Lambda$-modules on Projective Deligne-Mumford Stacks](https://arxiv.org/abs/2003.11674), *arXiv: 2003.11674* (2020).
