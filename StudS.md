@@ -13,11 +13,11 @@ This part atims at shareing some information for students, especially for those 
 
 **2023春季讨论班**
 
-时间：TBA
+时间：周日晚7点（7点半）
 
-地点：极大概率线上
+地点：腾讯会议
 
-内容：可能是李群和李代数
+内容：Lie algebras and Lie groups, *Lie groups beyond an introduction* by Knapp (Chap 0, 1)
 
 形式：原则意义上希望参加人员可以为该讨论班做出一定的贡献，即讲一次。
 
