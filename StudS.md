@@ -11,17 +11,21 @@ This part atims at shareing some information for students, especially for those 
 
 一般来说，我每学期会组织一个固定主题的面向本科生的讨论班，讨论的内容目前会以我熟悉或相关的领域为主。等到将来时机成熟，希望这个讨论班完全可以由感兴趣地本科生（特别是基础数学方向）自发地组织下去。
 
-**2023春季讨论班**
+**2023秋季讨论班**
 
-时间：周日晚7点（7点半）
+时间：待定
 
-地点：腾讯会议
+地点：待定
 
-内容：Lie algebras and Lie groups, *Lie groups beyond an introduction* by Knapp (Chap 0, 1)
+内容：待定
 
-形式：原则意义上希望参加人员可以为该讨论班做出一定的贡献，即讲一次。
+形式：待定
 
 **以往讨论班主题**：
+
+*2023春季讨论班*：Lie algebras and Lie groups, *Lie groups beyond an introduction* by Knapp (Chap 0, 1)
+
+特别感谢**谌越**（19级）对本学期讨论班的贡献。
 
 *2022秋季讨论班*： Algebraic Geometry (Exercises in Hartshorne, chap 2)
 
