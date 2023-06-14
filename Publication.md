@@ -12,6 +12,7 @@ All my publications and preprints can be found at [arXiv](http://arxiv.org/a/sun
 7. [Moduli Problem of Hitchin Pairs over Deligne-Mumford Stack](https://doi.org/10.1090/proc/15663), *Proc. Amer. Math. Soc.* 150(1), 131-143 (2022). [arXiv:1909.04543](https://arxiv.org/abs/1909.04543)
 8. [On the image of Hitchin morphism for algebraic surfaces: The case $GL_n$](https://doi.org/10.1093/imrn/rnad043) (with L. Song), *IMRN* (2023). [arXiv:2107.01679](https://arxiv.org/abs/2107.01679)
 9. [Logahoric Higgs Torsors for a Complex Reductive Group](https://doi.org/10.1007/s00208-023-02605-x) (with G. Kydonakis and L. Zhao), *Math. Ann.* (2023). [arXiv:2107.01977](https://arxiv.org/abs/2107.01977)
+10. [Meromorphic Parahoric Higgs Torsors and Filtered Stokes G-local Systems on Curves](https://arxiv.org/abs/2212.04939) (with P. Huang), to appear in *Adv. Math.* (2023). [arXiv:2212.04939](https://arxiv.org/abs/2212.04939)
 
 ## Preprints
 1. [Moduli Space of $\Lambda$-modules on Projective Deligne-Mumford Stacks](https://arxiv.org/abs/2003.11674), *arXiv: 2003.11674* (2020).
@@ -19,8 +20,7 @@ All my publications and preprints can be found at [arXiv](http://arxiv.org/a/sun
 3. [Moduli Spaces of Coherent Sheaves on Projective Deligne-Mumford Stacks over Algebraic Spaces](https://arxiv.org/abs/2101.00377), *arXiv:2101.00377* (2021).
 4. [Tame Parahoric Nonabelian Hodge Correspondence in Positive Characteristic over Algebraic Curves](https://arxiv.org/abs/2109.00850) (with M. Li), *arXiv:2109.00850* (2021).
 5. [Tame Parahoric Nonabelian Hodge Correspondence on Curves](https://arxiv.org/abs/2205.15475) (with P. Huang, G. Kydonakis and L. Zhao), *arXiv: 2205.15475* (2022).
-6. [Meromorphic Parahoric Higgs Torsors and Filtered Stokes G-local Systems on Curves](https://arxiv.org/abs/2212.04939) (with P. Huang), *arXiv: 2212.04939* (2022).
-7. [Moduli Spaces of Filtered (Stokes) G-local Systems on Curves](https://arxiv.org/abs/2304.09999) (with P. Huang), *arXiv: 2304.09999* (2023).
+6. [Moduli Spaces of Filtered (Stokes) G-local Systems on Curves](https://arxiv.org/abs/2304.09999) (with P. Huang), *arXiv: 2304.09999* (2023).
 ## Notes
 
 None
