@@ -12,7 +12,7 @@ All my publications and preprints can be found at [arXiv](http://arxiv.org/a/sun
 7. [Moduli Problem of Hitchin Pairs over Deligne-Mumford Stack](https://doi.org/10.1090/proc/15663), *Proc. Amer. Math. Soc.* 150(1), 131-143 (2022). [arXiv:1909.04543](https://arxiv.org/abs/1909.04543)
 8. [On the image of Hitchin morphism for algebraic surfaces: The case $GL_n$](https://doi.org/10.1093/imrn/rnad043) (with L. Song), *IMRN* (2023). [arXiv:2107.01679](https://arxiv.org/abs/2107.01679)
 9. [Logahoric Higgs Torsors for a Complex Reductive Group](https://doi.org/10.1007/s00208-023-02605-x) (with G. Kydonakis and L. Zhao), *Math. Ann.* (2023). [arXiv:2107.01977](https://arxiv.org/abs/2107.01977)
-10. [Meromorphic Parahoric Higgs Torsors and Filtered Stokes G-local Systems on Curves](https://arxiv.org/abs/2212.04939) (with P. Huang), to appear in *Adv. Math.* (2023). [arXiv:2212.04939](https://arxiv.org/abs/2212.04939)
+10. [Meromorphic Parahoric Higgs Torsors and Filtered Stokes G-local Systems on Curves](https://doi.org/10.1016/j.aim.2023.109183) (with P. Huang), *Adv. Math.* (2023). [arXiv:2212.04939](https://arxiv.org/abs/2212.04939)
 
 ## Preprints
 1. [Moduli Space of $\Lambda$-modules on Projective Deligne-Mumford Stacks](https://arxiv.org/abs/2003.11674), *arXiv: 2003.11674* (2020).
