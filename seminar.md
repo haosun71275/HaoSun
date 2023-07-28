@@ -7,6 +7,7 @@ Here is the information of seminars I organized (or co-organized).
 #### 2023
 
 6.14 Xie, Kaitao (CUHK), Unipotent Elements in Total Posivity.
+
 7.28 Huang, Pengfei (Heidelberg), Positivity and higher Teichmuller spaces
 
 ### Conferences
