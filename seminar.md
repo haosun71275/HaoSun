@@ -6,9 +6,11 @@ Here is the information of seminars I organized (or co-organized).
 
 #### 2023
 
-6.14 Unipotent Elements in Total Posivity by Xie, Kaitao (CUHK).
+06.14 Unipotent Elements in Total Posivity by Xie, Kaitao (CUHK).
 
-7.28 Positivity and higher Teichmuller spaces by Huang, Pengfei (Heidelberg).
+07.28 Positivity and higher Teichmuller spaces by Huang, Pengfei (Heidelberg).
+
+08.04 On the existence of semistsble filtration on the semistable orthogonal connection by Wang, Jianping (Tsinghua University).
 
 ### Conferences
 
