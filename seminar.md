@@ -15,5 +15,6 @@ Here is the information of seminars I organized (or co-organized).
 ### Conferences
 
 [Mid-South Algebraic Topology and Geometry Workshop](https://msatg.github.io/msatg2022/) (hosted by Zhen Huan), July 18 - 21, 2022.
+[Higgs bundles, non-Abelian Hodge correspondence and related topics 2023](https://www.llddeddym.site/Higgs-bundles-conference/) (hosted by Qiongling Li), Nov. 3 - 8, 2023.
 
 ##### [Back to Homepage](index.md)
