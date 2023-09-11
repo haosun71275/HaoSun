@@ -12,6 +12,7 @@
 ### 课程阅读材料
 
 1. [A Note on N!](Teaching_Material/Algebra_and_Geometry/1_N.pdf)
+2. [A Note on an Identity of Ramanujan](Teaching_Material/Algebra_and_Geometry/2_Ramanujan.pdf)
 
 
 
