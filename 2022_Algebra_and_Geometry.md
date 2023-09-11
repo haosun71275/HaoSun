@@ -9,7 +9,9 @@
 * 助教：TBA
 * 答疑时间：TBA
 
+### 课程阅读材料
 
+1. [A Note on N!](Teaching_Material/Algebra_and_Geometry/1_N.pdf)
 
 
 
