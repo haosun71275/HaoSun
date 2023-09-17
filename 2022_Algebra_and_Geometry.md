@@ -13,6 +13,7 @@
 
 1. [A Note on N!](Teaching_Material/Algebra_and_Geometry/1_N.pdf)
 2. [A Note on an Identity of Ramanujan](Teaching_Material/Algebra_and_Geometry/2_Ramanujan.pdf)
+3. [On Some Irrational Decimal Fractions](Teaching_Material/Algebra_and_Geometry/3_Irrational_Decimal_Fraction.pdf)
 
 
 
