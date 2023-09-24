@@ -17,6 +17,7 @@
 4. [A Simple Direct Proof of Marden's Theorem](Teaching_Material/Algebra_and_Geometry/4_Marden_Theorem.pdf)
 5. [Inverse Functions](Teaching_Material/Algebra_and_Geometry/5_Inverse_Functions.pdf)
 6. [Recounting the rationals](Teaching_Material/Algebra_and_Geometry/6_recounting_rationals.pdf)
+7. [A Simple Proof of pi2/6 and related topics](Teaching_Material/Algebra_and_Geometry/7_pi26.pdf)
 
 
 
