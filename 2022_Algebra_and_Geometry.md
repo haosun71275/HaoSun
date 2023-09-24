@@ -15,6 +15,7 @@
 2. [A Note on an Identity of Ramanujan](Teaching_Material/Algebra_and_Geometry/2_Ramanujan.pdf)
 3. [On Some Irrational Decimal Fractions](Teaching_Material/Algebra_and_Geometry/3_Irrational_Decimal_Fraction.pdf)
 4. [A Simple Direct Proof of Marden's Theorem](Teaching_Material/Algebra_and_Geometry/4_Marden_Theorem.pdf)
+5. [Inverse Functions](Teaching_Material/Algebra_and_Geometry/5_Inverse_Functions.pdf)
 
 
 
