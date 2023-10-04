@@ -19,7 +19,11 @@
 6. [Recounting the rationals](Teaching_Material/Algebra_and_Geometry/6_recounting_rationals.pdf)
 7. [A Simple Proof of pi2/6 and related topics](Teaching_Material/Algebra_and_Geometry/7_pi26.pdf)
 
-
+### 课程设计
+1. 请自行选择一个阅读材料作为课程设计题目
+2. 建议用latex或word编排（也可以手写）
+3. 评分标准分为四部分：完成度（30%），准确性（30%），拓展性（20%），规范性（20%）
+4. 课程设计提交日期为11月14日或16日。若迟交，请自行交到办公室，迟交一天扣1分（备注：以我收到的日期计算）
 
 ### 关于不回邮件
 
