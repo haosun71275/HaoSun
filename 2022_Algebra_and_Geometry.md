@@ -19,6 +19,7 @@
 6. [Recounting the rationals](Teaching_Material/Algebra_and_Geometry/6_recounting_rationals.pdf)
 7. [A Simple Proof of pi2/6 and related topics](Teaching_Material/Algebra_and_Geometry/7_pi26.pdf)
 8. [What is Wrong with the Definition of dy/dx?](Teaching_Material/Algebra_and_Geometry/8_dy_dx.pdf)
+9. [A Mechanical Derivation of the Area of the Sphere](Teaching_Material/Algebra_and_Geometry/9_Area_of_the_sphere.pdf)
 
 ### 课程设计
 1. 请自行选择一个阅读材料作为课程设计题目
