@@ -22,6 +22,7 @@
 9. [A Mechanical Derivation of the Area of the Sphere](Teaching_Material/Algebra_and_Geometry/9_Area_of_the_sphere.pdf)
 10. [A Note on Euler's Factoring Problem](Teaching_Material/Algebra_and_Geometry/10_Euler_Factoring_Problem.pdf)
 11. [Light Subsets of ℕ with Dense Quotient Sets](Teaching_Material/Algebra_and_Geometry/11_light_subsets.pdf)
+12. [Introductiont o Fermat's Last Theorem](Teaching_Material/Algebra_and_Geometry/12_Introduction_to_Fermat's_Last_Theorem.pdf)
 
 ### 课程设计
 1. 请自行选择一个阅读材料作为课程设计题目
