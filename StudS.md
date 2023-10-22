@@ -57,7 +57,9 @@ This part atims at shareing some information for students, especially for those 
 
 2022级：谌越，[*Fargues-Fontaine曲线的几何单连通性*](Students_Work/2022_ChenYue.pdf)
 
-**研究生**： 待定（目前还没有研究生）。
+**研究生**： 
+
+陈华骏（24级）
 
 *重要：我作为毕业设计论文，一般只关注学术上的事宜。对于毕业论文的提交时间、书写规范等等，请自行查找阅读学校和学院相关规定。*
 
