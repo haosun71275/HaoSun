@@ -13,13 +13,15 @@ This part atims at shareing some information for students, especially for those 
 
 **2023秋季讨论班**
 
-时间：待定
+时间：周日晚7点
 
-地点：待定
+地点：腾讯会议
 
-内容：待定
+形式：每位参与者自选一个topic讲2-3次。
 
-形式：待定
+刘宇航（21级）：Representation of Finite Groups
+
+黄斌和（20级）：Representation of SL2
 
 **以往讨论班主题**：
 
