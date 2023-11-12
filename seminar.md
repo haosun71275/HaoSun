@@ -14,6 +14,8 @@ Here is the information of seminars I organized (or co-organized).
 
 09.03, 09.10 Hecke Algebra and its Categorifications I, II by Xie, Kaitao (CUHK).
 
+11.05, 11.12 Towards p-adic Hodge Theory I, II by Chen, Yue (CUHK)
+
 ### Conferences
 
 [Mid-South Algebraic Topology and Geometry Workshop](https://msatg.github.io/msatg2022/) (hosted by Zhen Huan), July 18 - 21, 2022.
