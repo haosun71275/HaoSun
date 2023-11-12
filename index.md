@@ -8,7 +8,7 @@ CV: [Resume](CV_HaoSun.pdf) (last updated March, 2023)
 
 * [Publications, Preprints, Notes and Slides](Publication.md)
 * [Teaching](teaching.md)
-* [Seminars](seminar.md)
+* [Seminars and Conferences](seminar.md)
 * [For Prospective Students and Students at SCUT](StudS.md) *(如果你是华工的学生或者是正在了解导师信息的学生，可以看一下这个页面）*
 
 
