@@ -13,15 +13,15 @@ All my publications and preprints can be found at [arXiv](http://arxiv.org/a/sun
 8. [Meromorphic Parahoric Higgs Torsors and Filtered Stokes G-local Systems on Curves](https://doi.org/10.1016/j.aim.2023.109183) (with P. Huang), *Adv. Math.* 429, Paper No. 109183, 38 pp. (2023). [arXiv:2212.04939](https://arxiv.org/abs/2212.04939)
 9. [On the image of Hitchin morphism for algebraic surfaces: The case $GL_n$](https://doi.org/10.1093/imrn/rnad043) (with L. Song), *IMRN* (2023). [arXiv:2107.01679](https://arxiv.org/abs/2107.01679)
 10. [Logahoric Higgs Torsors for a Complex Reductive Group](https://doi.org/10.1007/s00208-023-02605-x) (with G. Kydonakis and L. Zhao), *Math. Ann.* (2023). [arXiv:2107.01977](https://arxiv.org/abs/2107.01977)
+11. [Poisson Structures on Moduli Spaces of Higgs Bundles over Stacky Curves](https://arxiv.org/abs/2008.12518) (with G. Kydonakis and L. Zhao), to appear at *Adv. Geom.* (2023) [arXiv:2008.12518](https://arxiv.org/abs/2008.12518).
 
 
 ## Preprints
 1. [Moduli Space of $\Lambda$-modules on Projective Deligne-Mumford Stacks](https://arxiv.org/abs/2003.11674), *arXiv: 2003.11674* (2020).
-2. [Poisson Structures on Moduli Spaces of Higgs Bundles over Stacky Curves](https://arxiv.org/abs/2008.12518) (with G. Kydonakis and L. Zhao), *arXiv:2008.12518* (2020).
-3. [Moduli Spaces of Coherent Sheaves on Projective Deligne-Mumford Stacks over Algebraic Spaces](https://arxiv.org/abs/2101.00377), *arXiv:2101.00377* (2021).
-4. [Tame Parahoric Nonabelian Hodge Correspondence in Positive Characteristic over Algebraic Curves](https://arxiv.org/abs/2109.00850) (with M. Li), *arXiv:2109.00850* (2021).
-5. [Tame Parahoric Nonabelian Hodge Correspondence on Curves](https://arxiv.org/abs/2205.15475) (with P. Huang, G. Kydonakis and L. Zhao), *arXiv: 2205.15475* (2022).
-6. [Moduli Spaces of Filtered (Stokes) G-local Systems on Curves](https://arxiv.org/abs/2304.09999) (with P. Huang), *arXiv: 2304.09999* (2023).
+2. [Moduli Spaces of Coherent Sheaves on Projective Deligne-Mumford Stacks over Algebraic Spaces](https://arxiv.org/abs/2101.00377), *arXiv:2101.00377* (2021).
+3. [Tame Parahoric Nonabelian Hodge Correspondence in Positive Characteristic over Algebraic Curves](https://arxiv.org/abs/2109.00850) (with M. Li), *arXiv:2109.00850* (2021).
+4. [Tame Parahoric Nonabelian Hodge Correspondence on Curves](https://arxiv.org/abs/2205.15475) (with P. Huang, G. Kydonakis and L. Zhao), *arXiv: 2205.15475* (2022).
+5. [Moduli Spaces of Filtered (Stokes) G-local Systems on Curves](https://arxiv.org/abs/2304.09999) (with P. Huang), *arXiv: 2304.09999* (2023).
 
 
 ## Notes
