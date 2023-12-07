@@ -16,6 +16,8 @@ Here is the information of seminars I organized (or co-organized).
 
 11.05, 11.12 Towards p-adic Hodge Theory I, II by Chen, Yue (CUHK)
 
+12.7 Compact Relative SO0(2,q)-character Varieties of Punctured Sphere by Zhang, Junming (Nankai University)
+
 ### Conferences
 
 [Mid-South Algebraic Topology and Geometry Workshop](https://msatg.github.io/msatg2022/) (hosted by Zhen Huan), July 18 - 21, 2022.
