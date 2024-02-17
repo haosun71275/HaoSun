@@ -44,20 +44,6 @@ This part atims at shareing some information for students, especially for those 
 
 <h2 id="UndGrasemi"> Undergraduate Seminar (本科生讨论班) </h2>
 
-一般来说，我每学期会组织一个固定主题的面向本科生的讨论班，讨论的内容目前会以我熟悉或相关的领域为主。等到将来时机成熟，希望这个讨论班完全可以由感兴趣地本科生（特别是基础数学方向）自发地组织下去。
-
-**2023秋季讨论班**
-
-时间：周日晚7点
-
-地点：腾讯会议
-
-形式：每位参与者自选一个topic讲2-3次。
-
-刘宇航（21级）：Representation of Finite Groups
-
-黄斌和（20级）：Representation of SL2
-
 **以往讨论班主题**：
 
 *2023春季讨论班*：Lie algebras and Lie groups, *Lie groups beyond an introduction* by Knapp (Chap 0, 1)
