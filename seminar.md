@@ -18,6 +18,10 @@ Here is the information of seminars I organized (or co-organized).
 
 12.7 Compact Relative SO0(2,q)-character Varieties of Punctured Sphere by Zhang, Junming (Nankai University)
 
+#### 2024
+
+In Spring 2024, Pengfei Huang, Tao Su and I organize a seminar ([GRASP](https://grasp-seminar.github.io/GRASP/)).
+
 ### Conferences
 
 [Mid-South Algebraic Topology and Geometry Workshop](https://msatg.github.io/msatg2022/) (hosted by Zhen Huan), July 18 - 21, 2022.
