@@ -22,7 +22,7 @@ All my publications and preprints can be found at [arXiv](http://arxiv.org/a/sun
 3. [Tame Parahoric Nonabelian Hodge Correspondence in Positive Characteristic over Algebraic Curves](https://arxiv.org/abs/2109.00850) (with M. Li), *arXiv:2109.00850* (2021).
 4. [Tame Parahoric Nonabelian Hodge Correspondence on Curves](https://arxiv.org/abs/2205.15475) (with P. Huang, G. Kydonakis and L. Zhao), *arXiv: 2205.15475* (2022).
 5. [Moduli Spaces of Filtered (Stokes) G-local Systems on Curves](https://arxiv.org/abs/2304.09999) (with P. Huang), *arXiv: 2304.09999* (2023).
-6. [On the Gr-semistable Filtration of Orthogonal/Symplectic lambda-connections](https://arxiv.org/abs/2401.09956) (with M. Sheng and J. Wang), *arXiv: 2401.09956* (2024).
+6. [On the Existence of Gr-semistable Filtrations of Orthogonal/Symplectic lambda-connections](https://arxiv.org/abs/2401.09956) (with M. Sheng and J. Wang), *arXiv: 2401.09956* (2024).
 
 
 ## Notes
