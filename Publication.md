@@ -23,6 +23,7 @@ All my publications and preprints can be found at [arXiv](http://arxiv.org/a/sun
 2. [Tame Parahoric Nonabelian Hodge Correspondence on Curves](https://arxiv.org/abs/2205.15475) (with P. Huang, G. Kydonakis and L. Zhao), *arXiv: 2205.15475* (2022).
 3. [Moduli Spaces of Filtered (Stokes) G-local Systems on Curves](https://arxiv.org/abs/2304.09999) (with P. Huang), *arXiv: 2304.09999* (2023).
 4. [On the Existence of Gr-semistable Filtrations of Orthogonal/Symplectic lambda-connections](https://arxiv.org/abs/2401.09956) (with M. Sheng and J. Wang), *arXiv: 2401.09956* (2024).
+5. [Filtered Stokes G-local Systems in Nonabelian Hodge Theory on Curves](https://arxiv.org/abs/2404.13553) (with P. Huang), *arXiv: 2404.13553* (2024).
 
 
 ## Notes
