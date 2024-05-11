@@ -20,6 +20,7 @@ This part atims at shareing some information for students, especially for those 
 *以往本科毕业设计*：
 
 2019级：谌越，[*Fargues-Fontaine曲线的几何单连通性*](Students_Work/2022_ChenYue.pdf)
+2020级：江林芳，*代数簇上余切丛的稳定性*
 
 **研究生**： 
 
