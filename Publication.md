@@ -15,7 +15,7 @@ All my publications and preprints can be found at [arXiv](http://arxiv.org/a/sun
 10. [Tame Parahoric Nonabelian Hodge Correspondence in Positive Characteristic over Algebraic Curves](https://link.springer.com/article/10.1007/s00029-024-00954-2) (with M. Li), *Selecta Math.* 30, no.4, Paper No. 60, 36 pp. (2024). [arXiv:2109.00850](https://arxiv.org/abs/2109.00850)
 11. [Logahoric Higgs Torsors for a Complex Reductive Group](https://doi.org/10.1007/s00208-023-02605-x) (with G. Kydonakis and L. Zhao), *Math. Ann.* 388, 3183-3228 (2024). [arXiv:2107.01977](https://arxiv.org/abs/2107.01977)
 12. [Meromorphic Parahoric Higgs Torsors and Filtered Stokes G-local Systems on Curves](https://doi.org/10.1016/j.aim.2023.109183) (with P. Huang), *Adv. Math.* 429, Paper No. 109183, 38 pp. (2023). [arXiv:2212.04939](https://arxiv.org/abs/2212.04939)
-13. [On the Existence of Gr-semistable Filtrations of Orthogonal/Symplectic lambda-connections](https://arxiv.org/abs/2401.09956) (with M. Sheng and J. Wang), accepted by *J. \'Ec. polytech. Math.* (2024). [arXiv: 2401.09956](https://arxiv.org/abs/2401.09956)
+13. [On the Existence of Gr-semistable Filtrations of Orthogonal/Symplectic lambda-connections](https://arxiv.org/abs/2401.09956) (with M. Sheng and J. Wang), accepted by *J. Ec. polytech. Math.* (2024). [arXiv: 2401.09956](https://arxiv.org/abs/2401.09956)
 
 
 ## Preprints
