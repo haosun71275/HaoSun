@@ -15,16 +15,15 @@ All my publications and preprints can be found at [arXiv](http://arxiv.org/a/sun
 10. [Tame Parahoric Nonabelian Hodge Correspondence in Positive Characteristic over Algebraic Curves](https://link.springer.com/article/10.1007/s00029-024-00954-2) (with M. Li), *Selecta Math.* 30, no.4, Paper No. 60, 36 pp. (2024). [arXiv:2109.00850](https://arxiv.org/abs/2109.00850)
 11. [Logahoric Higgs Torsors for a Complex Reductive Group](https://doi.org/10.1007/s00208-023-02605-x) (with G. Kydonakis and L. Zhao), *Math. Ann.* 388, 3183-3228 (2024). [arXiv:2107.01977](https://arxiv.org/abs/2107.01977)
 12. [Meromorphic Parahoric Higgs Torsors and Filtered Stokes G-local Systems on Curves](https://doi.org/10.1016/j.aim.2023.109183) (with P. Huang), *Adv. Math.* 429, Paper No. 109183, 38 pp. (2023). [arXiv:2212.04939](https://arxiv.org/abs/2212.04939)
-
+13. [On the Existence of Gr-semistable Filtrations of Orthogonal/Symplectic lambda-connections](https://arxiv.org/abs/2401.09956) (with M. Sheng and J. Wang), accepted by *J. \'Ec. polytech. Math.* (2024). [arXiv: 2401.09956](https://arxiv.org/abs/2401.09956)
 
 
 ## Preprints
 1. [Moduli Space of $\Lambda$-modules on Projective Deligne-Mumford Stacks](https://arxiv.org/abs/2003.11674), *arXiv: 2003.11674* (2020).
 2. [Tame Parahoric Nonabelian Hodge Correspondence on Curves](https://arxiv.org/abs/2205.15475) (with P. Huang, G. Kydonakis and L. Zhao), *arXiv: 2205.15475* (2022).
 3. [Moduli Spaces of Filtered (Stokes) G-local Systems on Curves](https://arxiv.org/abs/2304.09999) (with P. Huang), *arXiv: 2304.09999* (2023).
-4. [On the Existence of Gr-semistable Filtrations of Orthogonal/Symplectic lambda-connections](https://arxiv.org/abs/2401.09956) (with M. Sheng and J. Wang), *arXiv: 2401.09956* (2024).
-5. [Filtered Stokes G-local Systems in Nonabelian Hodge Theory on Curves](https://arxiv.org/abs/2404.13553) (with P. Huang), *arXiv: 2404.13553* (2024).
-6. [A Nonabelian Hodge Correspondence for Principal Bundles in Positive Characteristic](https://arxiv.org/abs/2405.09947) (with M. Sheng and J. Wang), *arXiv: 2405.09947* (2024).
+4. [Filtered Stokes G-local Systems in Nonabelian Hodge Theory on Curves](https://arxiv.org/abs/2404.13553) (with P. Huang), *arXiv: 2404.13553* (2024).
+5. [A Nonabelian Hodge Correspondence for Principal Bundles in Positive Characteristic](https://arxiv.org/abs/2405.09947) (with M. Sheng and J. Wang), *arXiv: 2405.09947* (2024).
 
 
 ## Notes
