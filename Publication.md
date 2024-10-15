@@ -24,6 +24,7 @@ All my publications and preprints can be found at [arXiv](http://arxiv.org/a/sun
 3. [Moduli Spaces of Filtered (Stokes) G-local Systems on Curves](https://arxiv.org/abs/2304.09999) (with P. Huang), *arXiv: 2304.09999* (2023).
 4. [Filtered Stokes G-local Systems in Nonabelian Hodge Theory on Curves](https://arxiv.org/abs/2404.13553) (with P. Huang), *arXiv: 2404.13553* (2024).
 5. [A Nonabelian Hodge Correspondence for Principal Bundles in Positive Characteristic](https://arxiv.org/abs/2405.09947) (with M. Sheng and J. Wang), *arXiv: 2405.09947* (2024).
+6. [Rigid $G$-connections and Nilpotency of $p$-curvatures](https://arxiv.org/abs/2410.09929) (with P. Huang and Y. Qin), *arXiv: 2410.09929* (2024).
 
 
 ## Notes
