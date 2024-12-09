@@ -7,7 +7,6 @@
 * 联系方式：hsun71275 at scut dot edu dot cn
 * 办公时间：预约
 * 助教：TBA
-* 答疑时间：TBA
 
 ### 课程阅读材料
 
