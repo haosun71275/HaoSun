@@ -27,6 +27,9 @@ This part atims at shareing some information for students, especially for those 
 
 陈华骏（24级）
 
+刘睿博（25级）
+
+
 **重要：对于毕业论文，我一般只关注学术上的事宜。对于毕业论文的提交时间、书写规范等，请自行查找阅读学校和学院相关规定。**
 
 
